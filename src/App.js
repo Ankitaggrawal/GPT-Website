@@ -10,8 +10,7 @@ const App = () => {
       <div className="gradient__bg">
         <Navbar />
         <Header />
-        <Header /> 
-        {/* delete it */}
+        <Header />  {/* delete it */}
         
       </div>
       <Brand />
