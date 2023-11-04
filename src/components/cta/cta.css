@@ -13,9 +13,8 @@
 .gpt3__cta-content {
     display: flex;
     flex-direction: column;
-
     text-align: left;
-    color: #fff;
+    color: #121212;
 }
 
 .gpt3__cta-content p {
