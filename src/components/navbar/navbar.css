@@ -76,13 +76,14 @@
     align-items: flex-end;
     flex-direction: column;
     text-align: end;
-    background-color: var(--color-footer);
+    background-color: #001e0f;
     padding: 2rem;
     position: absolute;
     top: 40px;
     right: 0;
     margin-top: 1rem;
     min-width: 210px;
+    border-radius: 12px;
     border-radius: 0 0 5 rgba(0, 0, 0, 0.2);
 }
 
@@ -99,7 +100,7 @@
     font-size: 18px;
     line-height: 25px;
     color: #fff;
-    background: #ff4820;
+    background: #0A6439;
     border-radius: 7px;
     font-weight: 500;
     font-family: var(--font-family);
