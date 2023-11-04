@@ -4,7 +4,7 @@
 
     display: flex;
     flex-direction: column;
-    background: var(--color-footer);
+    background: #1d1d1d;
 }
 
 .gpt3__blog-container_article-image {
